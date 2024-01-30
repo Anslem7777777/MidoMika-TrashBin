@@ -1,0 +1,4 @@
+name: MidoMika-TrashBin
+version: '1.0-SNAPSHOT'
+main: me.mika.midomikatrashbin.MidoMika_TrashBin
+api-version: '1.19'

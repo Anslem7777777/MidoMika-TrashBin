@@ -1,0 +1,4 @@
+name: MidoMika-TrashBin
+version: '${project.version}'
+main: me.mika.midomikatrashbin.MidoMika_TrashBin
+api-version: '1.19'
